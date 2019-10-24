@@ -1065,7 +1065,7 @@ de:
       logout: Abmelden
       ordergroup: Meine Bestellgruppe
       profile: Profil bearbeiten
-    logo: "<span>food</span>soft"
+    logo: "bio<span>kiste</span>"
   lib:
     render_pdf:
       page: Seite %{number} von %{count}
